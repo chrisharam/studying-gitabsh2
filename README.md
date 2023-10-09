@@ -1,13 +1,13 @@
 # studying-gitabsh2
 
 ## How to save new updated files?
- -Changes : storing data as changes to the base version
- -Snapshots : storing data as snapshots
+ - Changes : storing data as changes to the base version
+ - Snapshots : storing data as snapshots
 
 ## What is Snapshots?  ***Three states in git***
-stage fixes - modified files(working directory)  
-commit - staged(staging area that can be used for place to write new things and delete)  
-checkout the project - commited(a final submit of git directory that you edited)
+ - stage fixes - modified files(working directory)
+ - commit - staged(staging area that can be used for place to write new things and delete)
+ - checkout the project - commited(a final submit of git directory that you edited)
 
 ------------------------------
 

@@ -30,8 +30,8 @@ $ git commit -m "commit message that you want to leave" : commit
  -Global level : affects all repositories
  -local level : specific to the current repository
 
-these three levels are overridden values in the previous level like this,
-system -> global -> local
+these three levels are overridden values in the previous level like this,  
+system - global - local
  ------------------------------
 
 ## staged level(editing mode) caution

@@ -1,8 +1,8 @@
 # studying-gitabsh2
 
 ## How to save new updated files?
- -1 Changes : storing data as changes to the base version
- -2 Snapshots : storing data as snapshots
+ -Changes : storing data as changes to the base version
+ -Snapshots : storing data as snapshots
 
 ## What is Snapshots?  ***Three states in git***
 stage fixes - modified files(working directory)  
@@ -26,9 +26,9 @@ $ git commit -m "commit message that you want to leave" : commit
 --------------------------------------
 
 ## Git config : First-time Setup
- -1 System level : affects all ueses and repositories
- -2 Global level : affects all repositories
- -3 local level : specific to the current repository
+ -System level : affects all ueses and repositories
+ -Global level : affects all repositories
+ -local level : specific to the current repository
 
 these three levels are overridden values in the previous level like this,
 system -> global -> local

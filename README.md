@@ -26,9 +26,10 @@ $ git commit -m "commit message that you want to leave" : commit
 --------------------------------------
 
 ## Git config : First-time Setup
- -System level : affects all ueses and repositories
- -Global level : affects all repositories
- -local level : specific to the current repository
+ - System level : affects all ueses and repositories
+ - Global level : affects all repositories
+ - local level : specific to the current repository
+
 
 these three levels are overridden values in the previous level like this,  
 system - global - local
